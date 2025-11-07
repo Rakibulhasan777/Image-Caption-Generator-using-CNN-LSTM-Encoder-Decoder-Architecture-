@@ -103,3 +103,8 @@ Evaluation of NLP models using BLEU metrics.
 Kaggle: Image Caption Generator using CNN–LSTM (Flickr8k Dataset)
 
 Paper: Show and Tell: A Neural Image Caption Generator (Vinyals et al., 2015)
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE) © 2025 Rakibul Hasan.  
+Feel free to use and modify the code for educational and research purposes, with proper attribution.
