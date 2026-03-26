@@ -1,4 +1,6 @@
-# Image-Caption-Generator-using-CNN-LSTM-Encoder-Decoder-Architecture
+# Image-Caption-Generator-using-CNN-LSTM-Encoder-Decoder-Architecture 
+## Direct Colab Link
+https://colab.research.google.com/drive/1xoyVcDV12Ac9KkbAxE3IMbmqysK2Bsts?authuser=2#scrollTo=xg-DI2XqB4ob
 ## 📘 Overview
 This project implements an image captioning model that automatically generates descriptive captions for input images.
 It combines Convolutional Neural Networks (CNNs) for visual feature extraction and Long Short-Term Memory (LSTM) networks for sequential text generation - a classic Encoder-Decoder architecture widely used in modern vision-language models.
